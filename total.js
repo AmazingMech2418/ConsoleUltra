@@ -22,11 +22,11 @@ function interval() {
 if(aaa%2 === 0) {
 if (window.console) {
 console.onOpen()
-a++
+aaa++
 }
 } else {
 if (!window.console) {
-a++
+aaa++
 }
 }
 }
